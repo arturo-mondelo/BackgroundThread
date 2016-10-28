@@ -1,6 +1,0 @@
-c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.exe.config
-C:\Users\amondelo\Documents\Visual Studio 2015\Projects\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.csprojResolveAssemblyReference.cache
-C:\Users\amondelo\Documents\Visual Studio 2015\Projects\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.exe
-C:\Users\amondelo\Documents\Visual Studio 2015\Projects\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.pdb
-C:\Users\amondelo\Documents\Visual Studio 2015\Projects\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.exe
-C:\Users\amondelo\Documents\Visual Studio 2015\Projects\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.pdb
