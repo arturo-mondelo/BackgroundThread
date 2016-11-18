@@ -14,7 +14,45 @@ namespace UsandoGenericos
             int[] arrInts = new int[] { 2, 5, 4, 7, 1, 3, 9, 8 };
             char[] arrChar = new char[] { 'f', 'a', 'r', 'c', 'h' };
 
-            //Ordenando
+            //Ordenando integer
+
+            for (int i = 0; i < arrInts.Length; i++)
+            {
+                for (int j = i + 1; j < arrInts.Length; j++)
+                {
+                    if (arrInts[i] > arrInts[j])
+                    {
+                        swap<int>(ref arrInts[i], ref arrInts[j]);
+                    }
+
+                    
+
+                }
+            }
+
+            //Ordenando char
+            for (int i = 0; i < arrChar.Length; i++)
+            {
+                for (int j = i + 1; j < arrChar.Length; j++)
+                {
+                    if (arrChar[i] > arrChar[j])
+                    {
+                        swap<char>(ref arrChar[i], ref arrChar[j]);
+                    }
+
+
+                }
+            }
+
+        }
+
+        static void swap<T>(ref T valorUno, ref T valorDos)
+        {
+
+            T temp = valorUno;
+            valorUno = valorDos;
+            valorDos = temp;
+        }
         }
     }
-}
+

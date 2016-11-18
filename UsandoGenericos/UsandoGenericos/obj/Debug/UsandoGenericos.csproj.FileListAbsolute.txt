@@ -1,1 +1,6 @@
 c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\UsandoGenericos\UsandoGenericos\bin\Debug\UsandoGenericos.exe.config
+c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\UsandoGenericos\UsandoGenericos\bin\Debug\UsandoGenericos.exe
+c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\UsandoGenericos\UsandoGenericos\bin\Debug\UsandoGenericos.pdb
+c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\UsandoGenericos\UsandoGenericos\obj\Debug\UsandoGenericos.csprojResolveAssemblyReference.cache
+c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\UsandoGenericos\UsandoGenericos\obj\Debug\UsandoGenericos.exe
+c:\users\amondelo\documents\visual studio 2015\Projects\BackgroundThread\UsandoGenericos\UsandoGenericos\obj\Debug\UsandoGenericos.pdb
