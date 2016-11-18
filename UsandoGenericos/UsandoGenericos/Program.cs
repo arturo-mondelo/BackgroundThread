@@ -23,9 +23,14 @@ namespace UsandoGenericos
                     if (arrInts[i] > arrInts[j])
                     {
                         swap<int>(ref arrInts[i], ref arrInts[j]);
+
+                        //debug
+                        Console.WriteLine(string.Join(",", arrInts));
+                        Console.ReadLine();
+
                     }
 
-                    
+
 
                 }
             }
@@ -38,6 +43,11 @@ namespace UsandoGenericos
                     if (arrChar[i] > arrChar[j])
                     {
                         swap<char>(ref arrChar[i], ref arrChar[j]);
+
+                        //debug
+                        Console.WriteLine(arrChar);
+                        Console.ReadLine();
+
                     }
 
 
